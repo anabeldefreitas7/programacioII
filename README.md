@@ -1,2 +1,2 @@
-# programacioII
+# programacionII
 repositorio de programacion 
